@@ -1,6 +1,3 @@
-![Background](https://github.com/Al1en131/Al1en131/raw/main/image.jpg)
-
-
 ## 🧕🏻 About Me
 
 Hi, My Name is **Alif Essa Nurcahyani** 👋 
