@@ -40,7 +40,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CodeIgniter-%23DD4814.svg?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter">
 </div>
 
-  
+![Wakatime Stats](https://wakatime.com/badge/user/Al1en131.svg)
+
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alif-essa-nurcahyani-4a0b85280/)
