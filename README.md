@@ -36,11 +36,7 @@ Here are some ideas to get you started:
 - ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
 - ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 - ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23DD4814.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
-## Contact
-- Email: alifessanurcahyani@gmail.com
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/alif-essa-nurcahyani-4a0b85280/)
-
-
+  
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alif-essa-nurcahyani-4a0b85280/)
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/alif_essa_nurcahyani)
