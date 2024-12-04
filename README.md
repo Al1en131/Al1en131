@@ -1,4 +1,4 @@
-![Background](https://github.com/Al1en131/repository/blob/main/image.jpg)
+![Background](https://github.com/Al1en131/Al1en131/blob/main/image.jpg)
 
 ## 🧕🏻 About Me
 
