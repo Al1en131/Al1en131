@@ -1,14 +1,11 @@
-## Hi, My Name is Alif Essa Nurcahyani 👋
+## 🧑‍💻 About Me
 
-🎓 I am a **7th-semester student** at **ITS PKU Muhammadiyah Surakarta**, specializing in **web development**.  
-
-💻 With **over a year of hands-on experience** as a web developer, I have successfully worked on projects across the entire development lifecycle, from **front-end** to **back-end development**.
-
-💡 I have not only built **dynamic and responsive websites** but have also **led teams** to create impactful digital solutions. My passion for **coding** and **problem-solving** drives me to consistently deliver projects that meet user needs and exceed expectations.  
-
-📚 I am dedicated to **continuous learning** and staying updated with the **latest advancements** in web development.  
-
-🎯 My goal is to continue honing my skills and applying my knowledge to build **optimal, efficient, and meaningful web solutions** that create real value.
+- 🎓 **7th-semester student** at ITS PKU Muhammadiyah Surakarta, specializing in Web Development.  
+- 💻 **Over 1 year of experience** working as a Web Developer.  
+- 🌟 Passionate about creating innovative and impactful **digital solutions**.  
+- 🌐 Expertise in both **frontend** and **backend** development using modern technologies.  
+- 🚀 Committed to continuous learning and staying updated with the latest advancements in **web development**.  
+- 🤝 Open to collaboration and excited to contribute to impactful projects.
 
 
 <!--
