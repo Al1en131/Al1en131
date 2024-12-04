@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 🚀 My expertise spans several technologies, including:
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="React">
   <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
