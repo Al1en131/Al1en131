@@ -3,14 +3,15 @@
 🎓 I am a **7th-semester student** at **ITS PKU Muhammadiyah Surakarta**, specializing in **web development**.  
 💻 With **over a year of hands-on experience** as a web developer, I have successfully worked on projects across the entire development lifecycle, from **front-end** to **back-end development**.
 
-🚀 My expertise spans several technologies, including:  
-- ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  
-- ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)  
-- ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)  
-- ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)  
-- ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)  
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
-- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+🚀 My expertise spans several technologies, including:
+- <i class="devicon-laravel-plain" title="Laravel"></i> **Laravel**
+- <i class="devicon-react-original colored" title="React JS"></i> **React JS**
+- <i class="devicon-vuejs-plain colored" title="Vue.js"></i> **Vue JS**
+- <i class="devicon-express-original" title="Express JS"></i> **Express JS**
+- <i class="devicon-nextjs-original" title="Next JS"></i> **Next JS**
+- <i class="devicon-bootstrap-plain colored" title="Bootstrap"></i> **Bootstrap**
+- <i class="devicon-tailwindcss-plain colored" title="TailwindCSS"></i> **TailwindCSS**
+
 
 💡 I have not only built **dynamic and responsive websites** but have also **led teams** to create impactful digital solutions. My passion for **coding** and **problem-solving** drives me to consistently deliver projects that meet user needs and exceed expectations.  
 
