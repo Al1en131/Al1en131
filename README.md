@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Al1en131&show_icons=true&count_private=true)
 
 ## Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alifessa](https://www.linkedin.com/in/alif-essa-nurcahyani-4a0b85280/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alif-essa-nurcahyani-4a0b85280/)
 
