@@ -5,7 +5,7 @@ Hi, My Name is **Alif Essa Nurcahyani** 👋
 - 🎓 **7th-semester student** at ITS PKU Muhammadiyah Surakarta, specializing in Web Development.  
 - 💻 **Over 1 year of experience** working as a Web Developer.  
 - 🌟 Passionate about creating innovative and impactful **digital solutions**.  
-- 🌐 Expertise in both **frontend** and **backend** development using modern technologies.  
+- 👩🏻‍💻 Expertise in both **frontend** and **backend** development using modern technologies.  
 - 🚀 Committed to continuous learning and staying updated with the latest advancements in **web development**.  
 - 🤝 Open to collaboration and excited to contribute to impactful projects.
 
