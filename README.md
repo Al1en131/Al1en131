@@ -37,7 +37,8 @@ Here are some ideas to get you started:
 
 
 ## My GitHub Stats
-![Alif's GitHub stats](https://github-readme-stats.vercel.app/api?username=Al1en131&show_icons=true&theme=radical)
+![Alif's GitHub stats](https://github-readme-stats.vercel.app/api?username=Al1en131&show_icons=true&theme=radical&count_private=true&token=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)
+
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alif-essa-nurcahyani-4a0b85280/)
