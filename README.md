@@ -39,8 +39,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
   <img src="https://img.shields.io/badge/CodeIgniter-%23DD4814.svg?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter">
   <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white" alt="React Native">
-  <img src="https://img.shields.io/badge/Termius-%2300B3B3.svg?style=for-the-badge&logo=termux&logoColor=white" alt="Termius">
+  <img src="https://img.shields.io/badge/XAMPP-%23D92D2A.svg?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP">
+  <img src="https://img.shields.io/badge/Laragon-%23F24D1F.svg?style=for-the-badge&logo=laragon&logoColor=white" alt="Laragon">
 </div>
+
 
 
 ## 🌐 Socials
