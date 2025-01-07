@@ -41,6 +41,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white" alt="React Native">
   <img src="https://img.shields.io/badge/XAMPP-%23D92D2A.svg?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP">
   <img src="https://img.shields.io/badge/Laragon-%23F24D1F.svg?style=for-the-badge&logo=laragon&logoColor=white" alt="Laragon">
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
 </div>
 
 
