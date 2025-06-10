@@ -43,6 +43,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Laragon-%23F24D1F.svg?style=for-the-badge&logo=laragon&logoColor=white" alt="Laragon">
   <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/DBeaver-%230072C6.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMTYgMTYiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMu%0D%0AMy5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik04IDBhOCA4IDAgMSAwIDggOEE4IDggMCAwIDAgOCAwWm0wIDE0YTggOCAwIDEgMSAwLTE2IDgg%0D%0AOCAwIDAgMSAwIDE2WiIvPjxwYXRoIGQ9Ik04IDRhNCA0IDAgMSAwIDQgNCA0IDQgMCAwIDAtNC00Wm0wIDZhMiAyIDAgMSAxIDAtNCAyIDIg%0D%0AMAAgMCAxIDAgNFoiLz48L3N2Zz4=&label=&labelColor=black&color=blue" alt="DBeaver">
+
 </div>
 
 
